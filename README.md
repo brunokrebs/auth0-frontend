@@ -1,3 +1,7 @@
+Follows https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/
+
+Backups of the repos before adding Auth0 are kept in C:\Users\pawn\Documents\Webs
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
